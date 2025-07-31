@@ -1,0 +1,37 @@
+%\documentclass[class=report,11pt,crop=false]{standalone}
+%\input{../Style/ChapterStyle.tex}
+%\input{../FrontMatter/Glossary.tex}
+%\begin{document}
+
+
+% \afterpage{
+% \newgeometry{margin=30mm}
+\chapter*{Abbreviations}
+\begingroup
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{@{}p{2.5cm} l}
+    ESA     & Electronically Steered Array\\
+    VNA     & Vector Network Analyzer\\
+    IC      & Integrated Circuit\\
+    RF      & Radio Frequency \\
+    AUT     & Antenna Under Test\\
+    PCB     & Printed Circuit board\\
+    SLL     & Side Lobe Level\\
+    EM      & Electro Magnetic\\
+    EMC     & Electro Magnetic Compliance\\
+    COTS    & Commercial off-the-shelf\\
+    RL      & Return Loss\\
+    CPW     & Coplanar Waveguide\\
+    GCPW    & Grounded Coplanar Waveguide\\
+    FMCW    & Frequency Modulated Continuous Wave\\
+    CAD     & Computer Assisted Drawings\\
+    AP      & Array Pattern\\
+    EP      & Element Pattern\\
+    RMS     & Root Mean Square\\
+\end{tabular}
+\endgroup
+\ifstandalone
+% \bibliography{../Bibliography/References.bib}
+% \printnoidxglossary[type=\acronymtype,nonumberlist]
+\fi
+%\end{document}

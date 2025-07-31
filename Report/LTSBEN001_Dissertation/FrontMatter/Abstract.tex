@@ -1,0 +1,18 @@
+%\documentclass[class=report,11pt,crop=false]{standalone}
+%\input{../Style/ChapterStyle.tex}
+%\input{../FrontMatter/Glossary.tex}
+%\begin{document}
+
+
+% \afterpage{
+% \newgeometry{margin=30mm}
+\chapter*{Abstract}
+Designing an Electronically Steered Array (ESA) requires a feed network. Four main types of feed networks are used namely Series, Parallel, Space-Fed and Reflective Space-Fed. All these feed networks require a phase shifter for each of antenna elements. Since ESA’s commonly consists of more than 1000 antenna elements each requiring its own expensive phase shifter. Therefor designing a low-cost ESA is nearly impossible, especially at high frequencies. To address this, a system is proposed that does not steer the phase in small increments but rather encodes an array’s elements with a fixed phase by switching the antenna load from an open to a short circuit and back. This report details the first necessary investigation to prove the feasibility of this system. For this proposed system one must verify that it is possible to induce a fixed phase difference on a reflector antenna by merely changing the load from open to short.  Only if this possible will can the system be designed further. 
+
+For this investigation a X-band antenna is designed with the focus on being able to change the load between short, open and matched load. Using the Rohde \& Schwarz ZVA40 VNA and two X-Band Horn antennas, the designed antennas are tested for all loads. The measurements are processed further in MATLAB to isolate the phase change due to the antenna load and verify that it is possible to not only encode but also extract a fixed phase difference on the reflector array elements.
+
+\ifstandalone
+% \bibliography{../Bibliography/References.bib}
+% \printnoidxglossary[type=\acronymtype,nonumberlist]
+\fi
+%\end{document}

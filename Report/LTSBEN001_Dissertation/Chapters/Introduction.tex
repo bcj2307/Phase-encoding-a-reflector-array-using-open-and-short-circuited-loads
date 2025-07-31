@@ -1,0 +1,42 @@
+% ----------------------------------------------------
+% Introduction
+% ----------------------------------------------------
+%\documentclass[class=report,11pt,crop=false]{standalone}
+%\input{../Style/ChapterStyle.tex}
+%\input{../FrontMatter/Glossary.tex}
+%\begin{document}
+% ----------------------------------------------------
+\chapter{Introduction}
+% ----------------------------------------------------
+
+\section{Background}
+Typical ESA’s today uses one of the four main types of feed networks, namely Series, Parallel, Space-Fed and Reflective Space-Fed \cite{ESAfeed}. For all four of the feed network types the system requires a phase shifter for each antenna elements. Phase shifters are expensive devices especially at high frequency bands such as X-Band and cost well over \$100 per IC \cite{HMC647}. Typical ESA’s consist of over a 1000 individual antenna elements such as the AN/APG-63(V)1 radar with 1500 antenna elements \cite{reflectarrayy}. Each of these elements would require an expensive phase shifter. 
+
+For RF systems in general each component and microstrip line is designed to match the characteristic impedance of the system, usually 50$\Omega$ . If a transmission line has a perfectly matched load, maximum RF power will be transferred to the load. The other extreme would be an short or open load, where the minimum RF power would be transferred to the load. For ideal cases, a match load will have no reflected signal, an open load will reflect the total signal without zero phase change and the shorted load will reflect total signal with a 180° phase change. Reflected power is usually seen as lost power, however for a reflector array this is opposite \cite{VSWR}.
+
+\section{Problem Statement}
+When designing a low-cost ESA, it would be nearly impossible to build to keep cost low due to the high number of antenna elements that each requires an expensive phase shifter. Therefor a design without phase shifters would be ideal.
+
+\section{Objectives}\label{sec:objectives}
+The objective is to design a reflector array that digitally encodes the reflector elements using PIN diode switches to switch between open load (0° phase change) and short load (180° phase change) for each individual antenna element. To design such a system one must first verify that it is possible to induce a fixed phase difference when changing the antenna element’s load to from open to short-circuit and back again. The AUT must have a fixed or constant and predictable phase difference between the open load and short-circuit irrespective of the distance from the radiating feed antenna. Only if this possible will one be able to design the describe reflector array system.
+
+
+\section{System Requirements}
+To verify that an antenna element can be encoded with a phase shift by switching between an short and an open load an antenna is required. An X-Band patch antenna is designed with the focus on being able to change the load between short, open and matched load. 3 Different versions of the same antenna are manufactured on the same PCB as well as a 3D printed bracket the keeps the antenna in the same position when swapping the antenna loads for testing. Using the Rohde \& Schwarz ZVA40 VNA and two X-Band Horn antennas, radiate the designed patch antenna (AUT) for all loads and save the S-parameters. Repeat the test at different distances in the far-field. Write \textbf{LTSBEN001\_phase\_comparison.m} that loads and normalizes all measurements to the match load measurement at each frequency point. The script further calculates the difference between the open load and short circuit measurements relative to the match load measurement at each frequency point. Repeat the test on a different day to verify the repeatability of the measurements. Verify that the patch is able to be encoded with a phase difference and identify future steps and tests required for the proposed system in section \ref{sec:objectives}.
+
+\section{Scope \& Limitations}
+For this investigation it is assumed that the final system will be able to calibrate out and normalize the phase measurements relative to the matched load case. The assumption is made that all the environment and common effects are captured in the matched load measurement. For this investigation it is assumed that the errors induced by swapping between 3 identical antennas will be negligible during testing. This report will only focus on whether the phase difference between the short and open load phases are constant when normalized to the matched load measurement and not how this normalization will be practically implemented.
+
+
+\section{Report Outline}
+The report will first provide the necessary information needed in the Literature Review section. The System Design is divided into two sections namely, Antenna Detailed Design and Signal Processing. The Antenna Detailed Design section provides all the design choices made during the for the AUT, while the Signal Processing section provides the required Matlab script to test and analyse the measured S-parameters. The Results section provides the results of the measurement analyses with short discussions. The conclusion provides feedback on the feasibility of the described systems in section \ref{sec:objectives} as well as the required future testing and development to achieve this system.
+
+
+
+% ----------------------------------------------------
+\ifstandalone
+\bibliography{../Bibliography/References.bib}
+\printnoidxglossary[type=\acronymtype,nonumberlist]
+\fi
+%\end{document}
+% ----------------------------------------------------

@@ -1,0 +1,27 @@
+% ----------------------------------------------------
+% Conclusions
+% ----------------------------------------------------
+%\documentclass[class=report,11pt,crop=false]{standalone}
+%\input{../Style/ChapterStyle.tex}
+%\input{../FrontMatter/Glossary.tex}
+%\begin{document}
+% ----------------------------------------------------
+\chapter{Conclusions \label{ch:conclusions}}
+%\epigraph{The same rule holds for us now, of course: we choose our next world through what we learn in this one. Learn nothing, and the next world is the same as this one.}%
+%    {\emph{---Richard Bach, Jonathan Livingston Seagull}}
+\vspace{0.5cm}
+% ----------------------------------------------------
+
+The results verify the hypothesis. The results prove that a phase difference can be encoded by merely changing the reflector antenna’s load form an open to a short circuit, however the phase difference that is encoded is not equal to the theorized 180°. The phase difference that is encoded is only 54°. This could be due to the path length of the reflectors feed. A possible test would be to use a through hole feed to move the termination closer to the antenna’s surface.
+
+The RMS error can be quite large at 6° for the second set of measurements. A possible way to improve this is to repeat the tests with a lower center frequency antenna since at X-band a 50um trace difference on a PCB already accounts for a 1◦ phase shift. A C-band antenna would be less sensitive in general and may yield more deterministic results.
+
+To eliminate the measurement error due to the swapping of the AUT, the tests can be done by connecting a switch to the AUT. The final system proposed in section \ref{sec:objectives} could use a PIN diode to switch from open to short, since they offer very low series resistance in their forward biased state, while also having very high resistance in their reversed biased state.
+
+% ----------------------------------------------------
+\ifstandalone
+\bibliography{../Bibliography/References.bib}
+\printnoidxglossary[type=\acronymtype,nonumberlist]
+\fi
+%\end{document}
+% ----------------------------------------------------
