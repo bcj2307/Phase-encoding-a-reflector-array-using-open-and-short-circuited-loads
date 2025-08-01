@@ -1,0 +1,122 @@
+{
+    "parameters": [
+        {
+            "expr": "0.45",
+            "name": "hole_rad",
+            "value": "0.45"
+        },
+        {
+            "expr": "0.538+0.035+0.035",
+            "name": "board_thick",
+            "value": "0.608"
+        },
+        {
+            "expr": "hole_rad+0.15",
+            "name": "pad_rad_bot",
+            "value": "0.6"
+        },
+        {
+            "expr": "hole_rad+0.15",
+            "name": "pad_rad_top",
+            "value": "0.6"
+        },
+        {
+            "descr": "matching trace width",
+            "expr": "0.2",
+            "name": "mt_w",
+            "value": "0.2"
+        },
+        {
+            "descr": "Matching trace length",
+            "expr": "2.45",
+            "name": "mt_l",
+            "value": "2.45"
+        },
+        {
+            "expr": "0.681",
+            "name": "trace_50",
+            "value": "0.681"
+        },
+        {
+            "expr": "20",
+            "name": "pcb_w",
+            "value": "20"
+        },
+        {
+            "descr": "`",
+            "expr": "25",
+            "name": "pcb_l",
+            "value": "25"
+        },
+        {
+            "expr": "0.203",
+            "name": "sub0_h",
+            "value": "0.203"
+        },
+        {
+            "expr": "0.097",
+            "name": "sub1_h",
+            "value": "0.097"
+        },
+        {
+            "expr": "0.203",
+            "name": "sub3_h",
+            "value": "0.203"
+        },
+        {
+            "expr": "1.5/2",
+            "name": "outer_cond_rad",
+            "value": "0.75"
+        },
+        {
+            "descr": "patch width",
+            "expr": "15.65",
+            "name": "W0",
+            "value": "15.65"
+        },
+        {
+            "descr": "Patch length",
+            "expr": "7.87",
+            "name": "L0",
+            "value": "7.87"
+        },
+        {
+            "descr": "inset depth",
+            "expr": "0.6",
+            "name": "inset_l",
+            "value": "0.6"
+        },
+        {
+            "descr": "inset gap",
+            "expr": "0.5",
+            "name": "inset_gap",
+            "value": "0.5"
+        },
+        {
+            "expr": "5",
+            "name": "trace_50_l",
+            "value": "5"
+        },
+        {
+            "expr": "3",
+            "name": "port_l",
+            "value": "3"
+        },
+        {
+            "expr": "1.5",
+            "name": "gap0",
+            "value": "1.5"
+        },
+        {
+            "expr": "0.8",
+            "name": "vias_spacing",
+            "value": "0.8"
+        },
+        {
+            "expr": "11",
+            "name": "rep_fact",
+            "value": "11"
+        }
+    ],
+    "version": 1
+}

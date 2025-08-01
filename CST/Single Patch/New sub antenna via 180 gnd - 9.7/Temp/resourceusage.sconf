@@ -1,0 +1,15 @@
+FeatureKeywords:string:modeler:history:header_not_parsed, monitor:farfield:single freq, modeler:boolean:add, modeler:model:anchorpoints, modeler:load:fullloading, meshloading:problem_class_only, la:macromodel, la:macromodel:nmaxthreads:10, modeler:model:anchorpoints:saving, modeler:hidfile:history_expert, modeler:hidfile:unique_ids, block:type:saved:MWSSCHEM, meshline:hex:check_after_loading:default, meshline:hex:handling_legacy:no, acisinterface:removebboxcache:modeler:applytransform, modeler:model:anchorpoints:loading, modeler:load:fastloading, DELETERESULTS:M0P0, model:layerstacking:automatic, mesh::background::boolean, mesh:workflow:nru, mesh:workflow:srf2vol, mesh:workflow:boolean, mesh:workflow:boolean:advanced, mesh::attributes:rstepw, mesh:workflow:cad2srf, mesh:workflow:cadsurf, acceleration:cpu:2, acceleration:cpudevices:1, solver:hf:fd:task:1, monitor:resultfilemap:load, monitor:scaling:peak, mesh:tet:adaptive:anisotropicedge, source:waveguide port:lossy:si, la:precond:pdss7, DenseInitDangerousDim, monitor:resultfilemap:save, solver:hf:fd:meshenhancement, la:iterative, la:parallel_excitation:block, mesh:tet:adaptive:fsample:recalc, solver:pp:farfield:tet:usesurfacefields, solver:hf:fd:samples:11, solver:hf:fd:sampling:linear, background:normal, boundary:expanded open:xmax, boundary:expanded open:xmin, boundary:expanded open:ymax, boundary:expanded open:ymin, boundary:expanded open:zmax, boundary:expanded open:zmin, boundary:open:ConvPML, lineqssolver:setting:acceleratedrestart, material:SI:generalized model, material:SI:lossy metal, material:rho, mesh:tet, mesh:tet:autocurvature, mesh:tet:curved, mesh:tet:curved:3, monitor:power:1d, solver:hf:fd, solver:hf:fd:generalpurpose:tet, solver:hf:fd:order:2, solver:hf:fd:portloss, source:waveguide port:active, source:waveguide port:inhomogeneous, source:waveguide port:internal port, units:Capacitance:pF, units:Conductance:S, units:Current:A, units:Frequency:GHz, units:Inductance:nH, units:Length:mm, units:Resistance:Ohm, units:Temperature:degC, units:Time:ns, units:Voltage:V, solver:pp:sparameter:sensitivityanalysis, solver:pp:sparameter:basicbranch, solver:pp:sparameter:unnorm, solver:pp:sparameter:calcyz, solver:pp:sparameter:calcvswr, solver:pp:sparameter:updatebalance, SMatrix:NCutoffs, lineqssolver:setting:auto, lineqssolver:setting:treecotree, mesh:tet:adaptive, solver:pp:farfield:1d, solver:pp:farfield:2d
+LastWorkflowState:string:tetmesh:success
+solver_hf_tet_fd/InitialFreePhysicalInMB:int:19240
+solver_hf_tet_fd/MaxResidentSizeInMB:int:3478
+solver_hf_tet_fd/MaxResidentSizeMiB:int:3296
+solver_hf_tet_fd/MinFreePhysicalInMB:int:16007
+solver_pp/InitialFreePhysicalInMB:int:18990
+solver_pp/MaxResidentSizeInMB:int:26
+solver_pp/MaxResidentSizeMiB:int:10
+solver_pp/MinFreePhysicalInMB:int:18988
+tetmesh/InitialFreePhysicalInMB:int:19357
+tetmesh/MaxResidentSizeInMB:int:96
+tetmesh/MaxResidentSizeMiB:int:72
+tetmesh/MinFreePhysicalInMB:int:19287
+---

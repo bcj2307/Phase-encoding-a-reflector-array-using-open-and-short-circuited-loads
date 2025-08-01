@@ -1,0 +1,1281 @@
+// Number 3D OBJECTS:
+// ^^^^^^^^^^^^^^^^^^
+41
+
+// Obj3D_ID, MediaCode (0=Iso3D,1=LossyIso3D,2=PEC,3=Aniso3D,4=LossyAniso3D,5=SurfaceImp)
+// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+0 0
+>> Material name:
+Vacuum
+
+1 0
+>> Material name:
+Rogers RO4003C (loss free)
+
+2 0
+>> Material name:
+air_0
+
+3 0
+>> Material name:
+air_0
+
+4 0
+>> Material name:
+air_0
+
+5 0
+>> Material name:
+air_0
+
+6 0
+>> Material name:
+air_0
+
+7 0
+>> Material name:
+air_0
+
+8 0
+>> Material name:
+air_0
+
+9 0
+>> Material name:
+air_0
+
+10 0
+>> Material name:
+air_0
+
+11 0
+>> Material name:
+air_0
+
+12 0
+>> Material name:
+air_0
+
+13 0
+>> Material name:
+air_0
+
+14 0
+>> Material name:
+air_0
+
+15 0
+>> Material name:
+air_0
+
+16 0
+>> Material name:
+air_0
+
+17 0
+>> Material name:
+air_0
+
+18 0
+>> Material name:
+air_0
+
+19 0
+>> Material name:
+air_0
+
+20 0
+>> Material name:
+air_0
+
+21 0
+>> Material name:
+air_0
+
+22 0
+>> Material name:
+air_0
+
+23 0
+>> Material name:
+air_0
+
+24 0
+>> Material name:
+air_0
+
+25 0
+>> Material name:
+Rogers RO4003C (loss free)
+
+26 0
+>> Material name:
+Rogers RO4450F (loss free)
+
+27 0
+>> Material name:
+air_0
+
+28 0
+>> Material name:
+air_0
+
+29 0
+>> Material name:
+air_0
+
+30 0
+>> Material name:
+air_0
+
+31 5
+>> Material name:
+Copper (annealed)
+
+32 5
+>> Material name:
+Copper (annealed)
+
+33 5
+>> Material name:
+Copper (annealed)
+
+34 5
+>> Material name:
+Copper (annealed)
+
+35 5
+>> Material name:
+Copper (annealed)
+
+36 5
+>> Material name:
+Copper (annealed)
+
+37 5
+>> Material name:
+Copper (annealed)
+
+38 5
+>> Material name:
+Copper (annealed)
+
+39 5
+>> Material name:
+Copper (annealed)
+
+40 5
+>> Material name:
+Copper (annealed)
+
+// Number 2D OBJECTS:
+// ^^^^^^^^^^^^^^^^^^
+409
+
+// Obj2D_ID, BCCode (0=Reg,1=PEC,2=PMC,3=RHO,4=OHM,5=PORT,6=OPEN,7=EXPANDEDOPEN,8=PERIODIC,9=TANGENTIAL,10=NORMAL):
+// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+0 0
+
+1 5
+1
+
+2 7
+
+3 7
+
+4 7
+
+5 7
+
+6 7
+
+7 7
+
+8 7
+
+9 7
+
+10 7
+
+11 7
+
+12 7
+
+13 7
+
+14 7
+
+15 7
+
+16 7
+
+17 7
+
+18 7
+
+19 7
+
+20 7
+
+21 7
+
+22 7
+
+23 7
+
+24 7
+
+25 7
+
+26 0
+
+27 0
+
+28 7
+
+29 7
+
+30 0
+
+31 0
+
+32 7
+
+33 7
+
+34 0
+
+35 0
+
+36 7
+
+37 7
+
+38 0
+
+39 0
+
+40 7
+
+41 7
+
+42 0
+
+43 0
+
+44 7
+
+45 7
+
+46 0
+
+47 0
+
+48 7
+
+49 7
+
+50 0
+
+51 0
+
+52 7
+
+53 7
+
+54 0
+
+55 0
+
+56 7
+
+57 7
+
+58 0
+
+59 0
+
+60 7
+
+61 7
+
+62 0
+
+63 0
+
+64 7
+
+65 7
+
+66 0
+
+67 0
+
+68 7
+
+69 7
+
+70 0
+
+71 0
+
+72 7
+
+73 7
+
+74 0
+
+75 0
+
+76 0
+
+77 0
+
+78 7
+
+79 0
+
+80 0
+
+81 0
+
+82 0
+
+83 7
+
+84 0
+
+85 0
+
+86 0
+
+87 0
+
+88 7
+
+89 0
+
+90 0
+
+91 0
+
+92 0
+
+93 7
+
+94 0
+
+95 0
+
+96 0
+
+97 0
+
+98 7
+
+99 0
+
+100 0
+
+101 0
+
+102 0
+
+103 7
+
+104 0
+
+105 0
+
+106 0
+
+107 0
+
+108 0
+
+109 0
+
+110 0
+
+111 0
+
+112 0
+
+113 0
+
+114 3
+Copper (annealed)
+
+115 3
+Copper (annealed)
+
+116 0
+
+117 3
+Copper (annealed)
+
+118 3
+Copper (annealed)
+
+119 3
+Copper (annealed)
+
+120 3
+Copper (annealed)
+
+121 3
+Copper (annealed)
+
+122 3
+Copper (annealed)
+
+123 3
+Copper (annealed)
+
+124 3
+Copper (annealed)
+
+125 3
+Copper (annealed)
+
+126 3
+Copper (annealed)
+
+127 3
+Copper (annealed)
+
+128 3
+Copper (annealed)
+
+129 3
+Copper (annealed)
+
+130 3
+Copper (annealed)
+
+131 3
+Copper (annealed)
+
+132 3
+Copper (annealed)
+
+133 3
+Copper (annealed)
+
+134 3
+Copper (annealed)
+
+135 3
+Copper (annealed)
+
+136 3
+Copper (annealed)
+
+137 3
+Copper (annealed)
+
+138 3
+Copper (annealed)
+
+139 3
+Copper (annealed)
+
+140 3
+Copper (annealed)
+
+141 3
+Copper (annealed)
+
+142 3
+Copper (annealed)
+
+143 3
+Copper (annealed)
+
+144 3
+Copper (annealed)
+
+145 3
+Copper (annealed)
+
+146 3
+Copper (annealed)
+
+147 3
+Copper (annealed)
+
+148 3
+Copper (annealed)
+
+149 3
+Copper (annealed)
+
+150 3
+Copper (annealed)
+
+151 3
+Copper (annealed)
+
+152 3
+Copper (annealed)
+
+153 3
+Copper (annealed)
+
+154 3
+Copper (annealed)
+
+155 3
+Copper (annealed)
+
+156 3
+Copper (annealed)
+
+157 3
+Copper (annealed)
+
+158 3
+Copper (annealed)
+
+159 3
+Copper (annealed)
+
+160 3
+Copper (annealed)
+
+161 3
+Copper (annealed)
+
+162 3
+Copper (annealed)
+
+163 3
+Copper (annealed)
+
+164 3
+Copper (annealed)
+
+165 3
+Copper (annealed)
+
+166 3
+Copper (annealed)
+
+167 3
+Copper (annealed)
+
+168 3
+Copper (annealed)
+
+169 3
+Copper (annealed)
+
+170 3
+Copper (annealed)
+
+171 3
+Copper (annealed)
+
+172 3
+Copper (annealed)
+
+173 3
+Copper (annealed)
+
+174 3
+Copper (annealed)
+
+175 3
+Copper (annealed)
+
+176 3
+Copper (annealed)
+
+177 3
+Copper (annealed)
+
+178 3
+Copper (annealed)
+
+179 3
+Copper (annealed)
+
+180 3
+Copper (annealed)
+
+181 3
+Copper (annealed)
+
+182 3
+Copper (annealed)
+
+183 3
+Copper (annealed)
+
+184 3
+Copper (annealed)
+
+185 3
+Copper (annealed)
+
+186 3
+Copper (annealed)
+
+187 3
+Copper (annealed)
+
+188 3
+Copper (annealed)
+
+189 3
+Copper (annealed)
+
+190 3
+Copper (annealed)
+
+191 3
+Copper (annealed)
+
+192 3
+Copper (annealed)
+
+193 3
+Copper (annealed)
+
+194 3
+Copper (annealed)
+
+195 3
+Copper (annealed)
+
+196 3
+Copper (annealed)
+
+197 3
+Copper (annealed)
+
+198 3
+Copper (annealed)
+
+199 3
+Copper (annealed)
+
+200 3
+Copper (annealed)
+
+201 3
+Copper (annealed)
+
+202 3
+Copper (annealed)
+
+203 3
+Copper (annealed)
+
+204 3
+Copper (annealed)
+
+205 3
+Copper (annealed)
+
+206 3
+Copper (annealed)
+
+207 3
+Copper (annealed)
+
+208 3
+Copper (annealed)
+
+209 3
+Copper (annealed)
+
+210 3
+Copper (annealed)
+
+211 3
+Copper (annealed)
+
+212 3
+Copper (annealed)
+
+213 3
+Copper (annealed)
+
+214 3
+Copper (annealed)
+
+215 3
+Copper (annealed)
+
+216 3
+Copper (annealed)
+
+217 3
+Copper (annealed)
+
+218 3
+Copper (annealed)
+
+219 3
+Copper (annealed)
+
+220 3
+Copper (annealed)
+
+221 3
+Copper (annealed)
+
+222 3
+Copper (annealed)
+
+223 3
+Copper (annealed)
+
+224 3
+Copper (annealed)
+
+225 3
+Copper (annealed)
+
+226 3
+Copper (annealed)
+
+227 3
+Copper (annealed)
+
+228 3
+Copper (annealed)
+
+229 3
+Copper (annealed)
+
+230 3
+Copper (annealed)
+
+231 3
+Copper (annealed)
+
+232 3
+Copper (annealed)
+
+233 3
+Copper (annealed)
+
+234 3
+Copper (annealed)
+
+235 3
+Copper (annealed)
+
+236 3
+Copper (annealed)
+
+237 3
+Copper (annealed)
+
+238 3
+Copper (annealed)
+
+239 3
+Copper (annealed)
+
+240 3
+Copper (annealed)
+
+241 3
+Copper (annealed)
+
+242 3
+Copper (annealed)
+
+243 3
+Copper (annealed)
+
+244 3
+Copper (annealed)
+
+245 3
+Copper (annealed)
+
+246 3
+Copper (annealed)
+
+247 3
+Copper (annealed)
+
+248 3
+Copper (annealed)
+
+249 3
+Copper (annealed)
+
+250 3
+Copper (annealed)
+
+251 3
+Copper (annealed)
+
+252 3
+Copper (annealed)
+
+253 3
+Copper (annealed)
+
+254 3
+Copper (annealed)
+
+255 3
+Copper (annealed)
+
+256 3
+Copper (annealed)
+
+257 3
+Copper (annealed)
+
+258 3
+Copper (annealed)
+
+259 3
+Copper (annealed)
+
+260 3
+Copper (annealed)
+
+261 3
+Copper (annealed)
+
+262 3
+Copper (annealed)
+
+263 3
+Copper (annealed)
+
+264 3
+Copper (annealed)
+
+265 3
+Copper (annealed)
+
+266 3
+Copper (annealed)
+
+267 3
+Copper (annealed)
+
+268 3
+Copper (annealed)
+
+269 3
+Copper (annealed)
+
+270 3
+Copper (annealed)
+
+271 3
+Copper (annealed)
+
+272 3
+Copper (annealed)
+
+273 3
+Copper (annealed)
+
+274 3
+Copper (annealed)
+
+275 3
+Copper (annealed)
+
+276 3
+Copper (annealed)
+
+277 3
+Copper (annealed)
+
+278 0
+
+279 0
+
+280 0
+
+281 0
+
+282 3
+Copper (annealed)
+
+283 0
+
+284 3
+Copper (annealed)
+
+285 0
+
+286 0
+
+287 0
+
+288 0
+
+289 3
+Copper (annealed)
+
+290 3
+Copper (annealed)
+
+291 3
+Copper (annealed)
+
+292 3
+Copper (annealed)
+
+293 3
+Copper (annealed)
+
+294 3
+Copper (annealed)
+
+295 3
+Copper (annealed)
+
+296 3
+Copper (annealed)
+
+297 3
+Copper (annealed)
+
+298 3
+Copper (annealed)
+
+299 3
+Copper (annealed)
+
+300 3
+Copper (annealed)
+
+301 3
+Copper (annealed)
+
+302 3
+Copper (annealed)
+
+303 3
+Copper (annealed)
+
+304 3
+Copper (annealed)
+
+305 3
+Copper (annealed)
+
+306 3
+Copper (annealed)
+
+307 3
+Copper (annealed)
+
+308 3
+Copper (annealed)
+
+309 3
+Copper (annealed)
+
+310 0
+
+311 3
+Copper (annealed)
+
+312 3
+Copper (annealed)
+
+313 3
+Copper (annealed)
+
+314 3
+Copper (annealed)
+
+315 3
+Copper (annealed)
+
+316 3
+Copper (annealed)
+
+317 3
+Copper (annealed)
+
+318 3
+Copper (annealed)
+
+319 3
+Copper (annealed)
+
+320 3
+Copper (annealed)
+
+321 3
+Copper (annealed)
+
+322 3
+Copper (annealed)
+
+323 3
+Copper (annealed)
+
+324 3
+Copper (annealed)
+
+325 3
+Copper (annealed)
+
+326 3
+Copper (annealed)
+
+327 3
+Copper (annealed)
+
+328 3
+Copper (annealed)
+
+329 3
+Copper (annealed)
+
+330 3
+Copper (annealed)
+
+331 3
+Copper (annealed)
+
+332 3
+Copper (annealed)
+
+333 3
+Copper (annealed)
+
+334 3
+Copper (annealed)
+
+335 3
+Copper (annealed)
+
+336 3
+Copper (annealed)
+
+337 3
+Copper (annealed)
+
+338 3
+Copper (annealed)
+
+339 3
+Copper (annealed)
+
+340 3
+Copper (annealed)
+
+341 3
+Copper (annealed)
+
+342 3
+Copper (annealed)
+
+343 3
+Copper (annealed)
+
+344 3
+Copper (annealed)
+
+345 0
+
+346 3
+Copper (annealed)
+
+347 3
+Copper (annealed)
+
+348 3
+Copper (annealed)
+
+349 0
+
+350 3
+Copper (annealed)
+
+351 3
+Copper (annealed)
+
+352 3
+Copper (annealed)
+
+353 3
+Copper (annealed)
+
+354 3
+Copper (annealed)
+
+355 3
+Copper (annealed)
+
+356 3
+Copper (annealed)
+
+357 3
+Copper (annealed)
+
+358 3
+Copper (annealed)
+
+359 3
+Copper (annealed)
+
+360 3
+Copper (annealed)
+
+361 3
+Copper (annealed)
+
+362 3
+Copper (annealed)
+
+363 3
+Copper (annealed)
+
+364 3
+Copper (annealed)
+
+365 3
+Copper (annealed)
+
+366 3
+Copper (annealed)
+
+367 3
+Copper (annealed)
+
+368 3
+Copper (annealed)
+
+369 3
+Copper (annealed)
+
+370 3
+Copper (annealed)
+
+371 3
+Copper (annealed)
+
+372 3
+Copper (annealed)
+
+373 3
+Copper (annealed)
+
+374 3
+Copper (annealed)
+
+375 3
+Copper (annealed)
+
+376 3
+Copper (annealed)
+
+377 3
+Copper (annealed)
+
+378 3
+Copper (annealed)
+
+379 0
+
+380 0
+
+381 0
+
+382 0
+
+383 3
+Copper (annealed)
+
+384 3
+Copper (annealed)
+
+385 3
+Copper (annealed)
+
+386 3
+Copper (annealed)
+
+387 3
+Copper (annealed)
+
+388 3
+Copper (annealed)
+
+389 3
+Copper (annealed)
+
+390 3
+Copper (annealed)
+
+391 3
+Copper (annealed)
+
+392 3
+Copper (annealed)
+
+393 3
+Copper (annealed)
+
+394 3
+Copper (annealed)
+
+395 3
+Copper (annealed)
+
+396 3
+Copper (annealed)
+
+397 3
+Copper (annealed)
+
+398 3
+Copper (annealed)
+
+399 3
+Copper (annealed)
+
+400 3
+Copper (annealed)
+
+401 3
+Copper (annealed)
+
+402 3
+Copper (annealed)
+
+403 3
+Copper (annealed)
+
+404 3
+Copper (annealed)
+
+405 3
+Copper (annealed)
+
+406 3
+Copper (annealed)
+
+407 3
+Copper (annealed)
+
+408 3
+Copper (annealed)
+
+// Number 1D OBJECTS:
+// ^^^^^^^^^^^^^^^^^^
+1
+
+// Obj1D_ID, BCCode (0=Reg,1=PEC,2=PMC,3=PORT,4=Lumped):
+// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+0 0
+

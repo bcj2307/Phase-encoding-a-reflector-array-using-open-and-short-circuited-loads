@@ -1,0 +1,13 @@
+{
+   "Author": "SMoyce",
+   "Comment": "",
+   "Last Problem Type": "High Frequency",
+   "Last Solver Type": "HF Frequency Domain",
+   "Last Solver Type Abb": "f",
+   "Mesh Cells": "244,295",
+   "Mesh Type": "Tetrahedral",
+   "Modeler Unique ID": "5:new sub antenna via 180 gnd - 9.7.cst?ef1c2bfc84e4a1571a4cfebdae52dca1?42405:numberofparameters=22:port=1>mode=1>zre=0>zim=0:::l0?w0?board_thick?gap0?hole_rad?inset_gap?inset_l?mt_l?mt_w?outer_cond_rad?pad_rad_bot?pad_rad_top?pcb_l?pcb_w?port_l?rep_fact?sub0_h?sub1_h?sub3_h?trace_50?trace_50_l?vias_spacing",
+   "ProjectVersion": "'# MWS Version: Version 2024.0 - Sep 01 2023 - ACIS 33.0.1 -",
+   "Results": "Frequency Domain: S-Parameter",
+   "Version": "3"
+}

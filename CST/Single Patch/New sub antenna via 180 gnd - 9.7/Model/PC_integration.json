@@ -1,0 +1,109 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrameReduced",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "hole_rad",
+         "type": "float",
+         "value": 0.45
+      },
+      {
+         "name": "board_thick",
+         "type": "string",
+         "value": "0.538+0.035+0.035"
+      },
+      {
+         "name": "mt_w",
+         "type": "float",
+         "value": 0.2
+      },
+      {
+         "name": "mt_l",
+         "type": "float",
+         "value": 2.45
+      },
+      {
+         "name": "trace_50",
+         "type": "float",
+         "value": 0.681
+      },
+      {
+         "name": "pcb_w",
+         "type": "float",
+         "value": 20.0
+      },
+      {
+         "name": "pcb_l",
+         "type": "float",
+         "value": 25.0
+      },
+      {
+         "name": "sub0_h",
+         "type": "float",
+         "value": 0.203
+      },
+      {
+         "name": "sub1_h",
+         "type": "float",
+         "value": 0.097
+      },
+      {
+         "name": "sub3_h",
+         "type": "float",
+         "value": 0.203
+      },
+      {
+         "name": "outer_cond_rad",
+         "type": "string",
+         "value": "1.5/2"
+      },
+      {
+         "name": "W0",
+         "type": "float",
+         "value": 15.65
+      },
+      {
+         "name": "L0",
+         "type": "float",
+         "value": 7.87
+      },
+      {
+         "name": "inset_l",
+         "type": "float",
+         "value": 0.6
+      },
+      {
+         "name": "inset_gap",
+         "type": "float",
+         "value": 0.5
+      },
+      {
+         "name": "trace_50_l",
+         "type": "float",
+         "value": 5.0
+      },
+      {
+         "name": "port_l",
+         "type": "float",
+         "value": 3.0
+      },
+      {
+         "name": "gap0",
+         "type": "float",
+         "value": 1.5
+      },
+      {
+         "name": "vias_spacing",
+         "type": "float",
+         "value": 0.8
+      },
+      {
+         "name": "rep_fact",
+         "type": "float",
+         "value": 11.0
+      }
+   ],
+   "outputVariables": []
+}
