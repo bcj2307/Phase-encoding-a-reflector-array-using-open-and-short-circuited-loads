@@ -1,0 +1,17 @@
+Output: Gerber Assembly Paste
+Type  : Gerber
+From  : PCB Document [EEE5004Z.PcbDoc]
+   Generated File[EEE5004Z.GTP]
+   Generated File[EEE5004Z.GBP]
+   Generated File[EEE5004Z.GD1]
+   Generated File[EEE5004Z.GD2]
+   Generated File[EEE5004Z.GG1]
+   Generated File[EEE5004Z.GG2]
+   Generated File[EEE5004Z.EXTREP]
+   Generated File[EEE5004Z.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 18:42:36 On 09/02/2025

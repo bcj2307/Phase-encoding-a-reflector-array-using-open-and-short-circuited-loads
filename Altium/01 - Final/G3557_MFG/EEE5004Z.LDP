@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\bloots\Documents\Masters\2025\NEW Substrate\Altium\EEE5004Z - BL\EEE5004Z.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=eee5004z.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=3_Bot_Blind_Vias|DrillFile=eee5004z.tx1|DrillLayers=g2,gbl

@@ -1,0 +1,35 @@
+Altium Designer Pick and Place Locations
+C:\Users\bloots\Documents\Masters\2025\NEW Substrate\Altium\EEE5004Z - BL\01 - Final\G3557_ASY\Pick Place for EEE5004Z.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/02/25
+Time:       18:42
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"J9","ANT7","BottomLayer","Connector_SMP_PE44946","358.6149","262.5372","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
+"J8","ANT7","BottomLayer","Connector_SMP_PE44946","358.6149","202.5371","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
+"J9_5","ANT7","BottomLayer","Connector_SMP_PE44946","383.6150","262.5377","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
+"J10_5","ANT7","BottomLayer","Connector_SMP_PE44946","404.8200","262.5376","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
+"J11_5","ANT7","BottomLayer","Connector_SMP_PE44946","426.0249","262.5376","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
+"J12_5","ANT7","BottomLayer","Connector_SMP_PE44946","447.2299","262.5376","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
+"J9_4","ANT7","BottomLayer","Connector_SMP_PE44946","383.6150","232.5372","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
+"J10_4","ANT7","BottomLayer","Connector_SMP_PE44946","404.8200","232.5371","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
+"J11_4","ANT7","BottomLayer","Connector_SMP_PE44946","426.0249","232.5371","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
+"J12_4","ANT7","BottomLayer","Connector_SMP_PE44946","447.2299","232.5371","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
+"J9_3","ANT7","BottomLayer","Connector_SMP_PE44946","383.6150","212.5371","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
+"J10_3","ANT7","BottomLayer","Connector_SMP_PE44946","404.8200","212.5371","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
+"J11_3","ANT7","BottomLayer","Connector_SMP_PE44946","426.0249","212.5371","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
+"J12_3","ANT7","BottomLayer","Connector_SMP_PE44946","447.2299","212.5371","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
+"J9_2","ANT7","BottomLayer","Connector_SMP_PE44946","383.6150","192.5371","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
+"J10_2","ANT7","BottomLayer","Connector_SMP_PE44946","404.8200","192.5371","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
+"J11_2","ANT7","BottomLayer","Connector_SMP_PE44946","426.0249","192.5371","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
+"J12_2","ANT7","BottomLayer","Connector_SMP_PE44946","447.2299","192.5371","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
+"J9_1","ANT7","BottomLayer","Connector_SMP_PE44946","383.6150","172.5371","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
+"J10_1","ANT7","BottomLayer","Connector_SMP_PE44946","404.8200","172.5371","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
+"J11_1","ANT7","BottomLayer","Connector_SMP_PE44946","426.0249","172.5371","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
+"J12_1","ANT7","BottomLayer","Connector_SMP_PE44946","447.2299","172.5371","270","SMP Connector Plug, Male Pin 50 Ohm SMD only"
